@@ -1,0 +1,61 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Allowed me to pinpoint the misspelled word quickly.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Facilities code issues and changes quickly.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Allows you to establish a history of changes and promotes version control.
+    Auto save does not allow you to view changes made.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git is used more for the software developer community, where as Google Docs
+    is more for word documents.
+
+    Keeps files in repositories together so that dependencies are kept together.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    No clue.
+
+    Use git log to locate the two commit ids that you want to compare.
+    Use git diff to identify the differences between the two versions.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    You can always revert back to the original file.
+    Promotes taking changes and risks.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Version control.
+
+How could having easy access to the entire history of a file make you a more efficient 
+programmer in the long term?
+
+    You don’t have to take the time to locate mistakes in your code.
+
+What do you think are the pros and cons of manually choosing when to create a commit, 
+like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+    It is a judgement call when it comes to committing.
+    Sometimes you might commit too soon, or take too long to commit.
+
+
+How might using version control make you more confident to make changes that could break something?
+
+    You always have a way of going back to the original commit.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Debug my IOS App Swift code.
