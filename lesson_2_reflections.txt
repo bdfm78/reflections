@@ -7,3 +7,34 @@ What value do you think it offers?
 
     The staging area lies between the working directory and the repository.
     Allows you to transition your commits carefully.
+
+How can you use the staging area to make sure you have one commit per logical change?
+    
+    Utilizing the git diff --staged command to double check one logical change is ready for committing.
+
+What are some situations when branches would be helpful in keeping your history organized? 
+How would branches help?
+
+    When you want to create different versions of a software application.
+    You can create another iteration of the application without impacting the original.
+
+How do the diagrams help you visualize the branch structure?
+
+    It faciliates comprehension of the non-linear relationship of commits and branches.
+
+What is the result of merging two branches together? Why do we represent it in 
+the diagram the way we do?
+
+    You create one branch with all the commits from both branches.
+    The graph allows us to visually understand the different branches and commits prior 
+    to merging, and how it's difficult to access different commits on different branches 
+    without merging.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+    With automatic merging, the step is done for you swiflty.  However, there might be changes 
+    or conflicts with the the changes.
+    With manual merge, you can validate all changes before merging the changes together.  However, 
+    this takes time to assess which change should be included in the merged file.
+
+  
